@@ -1,5 +1,9 @@
 # Arquivos
 *.exe
+*.txt
+*.html
+*.csv
 
 # Pastas
 *output/
+*input/
